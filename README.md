@@ -13,3 +13,18 @@ Se creó una aplicación básica utilizando Angular donde se modificó el tìtul
 
 ```bash
 git https://github.com/sebuxx2/clase-1
+
+
+###Instalar dependencias
+bash
+cd clase-1
+npm install
+
+
+#Ejecutar la aplicación
+bash
+ng serve
+
+
+### Acceso en el navegador
+http://localhost:4200/
